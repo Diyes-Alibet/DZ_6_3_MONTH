@@ -1,0 +1,35 @@
+[
+    {
+      "name": "Ronaldo",
+      "age": 39,
+      "person_photo": "https://i.pinimg.com/236x/aa/2c/8e/aa2c8ec990fe53ee2e8dd2ea441c3452.jpg"
+    },
+    {
+      "name": "Dybala",
+      "age": 30,
+      "person_photo": "https://i.pinimg.com/474x/d5/c5/c0/d5c5c0f45e4c8433dcd11d75eb6e0b91.jpg"
+    },
+    {
+      "name": "Antony",
+      "age": 32,
+      "person_photo": "https://i.pinimg.com/236x/61/88/e5/6188e5e10149e82328f289d98355ab82.jpg"
+    },
+    {
+      "name": "Modric",
+      "age": 39,
+      "person_photo": "https://i.pinimg.com/474x/3b/aa/46/3baa465796ccf39ecc67e45b8e4b3d25.jpg"
+    },
+    {
+      "name": "Navas",
+      "age": 36,
+      "person_photo": "https://i.pinimg.com/236x/8c/97/e3/8c97e32a54b4adcf27cd8a3d26da9f38.jpg"
+    },
+    {
+      "name": "Bellingham",
+      "age": 21,
+      "person_photo": "https://i.pinimg.com/474x/0c/70/33/0c70332025dcef4f9c46ea3a3c7426e9.jpg"
+    }
+
+]
+
+
